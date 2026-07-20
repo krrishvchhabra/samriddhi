@@ -1,0 +1,16 @@
+enterprise_id,name,owner,village,district,state,sector,cattle_count,avg_milk_per_cattle_litres,loan_outstanding,loan_emi,savings_balance,member_since,phone,upi_active,risk_category
+E001,Kamla Devi Dairy,Kamla Devi,Rampur,Samastipur,Bihar,dairy,13,6.7,0,0.0,15256.0,2024-02-22,9895285932,1,medium
+E002,Sunita SHG Dairy,Sunita Yadav,Rampur,Muzaffarpur,Bihar,dairy,12,5.7,0,0.0,11096.0,2025-12-18,9702632297,1,medium
+E003,Radha Milk Collective,Radha Yadav,Krishnanagar,Darbhanga,Bihar,dairy,14,9.1,0,0.0,15659.0,2025-08-04,9849621470,0,medium
+E004,Parvati Gaushala,Parvati Singh,Devgarh,Vaishali,Bihar,dairy,8,11.7,15000,833.0,3840.0,2024-12-21,9203848421,1,medium
+E005,Meena Pashu Palan,Meena Singh,Rampur,Darbhanga,Bihar,dairy,8,8.8,25000,1389.0,3418.0,2025-03-20,9990566476,1,medium
+E006,Savitri Dugdh Samiti,Savitri Kumari,Sitapur,Muzaffarpur,Bihar,dairy,12,9.6,15000,833.0,19734.0,2023-08-23,9349957310,1,medium
+E007,Lakshmi Dairy Group,Lakshmi Singh,Govindpur,Samastipur,Bihar,dairy,9,6.1,15000,833.0,5771.0,2025-04-16,9853573823,1,medium
+E008,Annapurna Milk Unit,Annapurna Kumari,Balrampur,Vaishali,Bihar,dairy,12,6.1,25000,1389.0,6859.0,2023-06-12,9787194506,1,medium
+E009,Durga SHG Dairy,Durga Singh,Rampur,Vaishali,Bihar,dairy,13,10.8,15000,833.0,9221.0,2025-11-08,9326541099,1,medium
+E010,Saraswati Pashu Sewa,Saraswati Yadav,Shivgarh,Darbhanga,Bihar,dairy,6,6.0,0,0.0,6439.0,2024-06-19,9678722458,1,medium
+E011,Ganga Dairy Collective,Ganga Yadav,Narayanpur,Darbhanga,Bihar,dairy,14,7.5,0,0.0,11171.0,2025-10-13,9911514914,1,medium
+E012,Yamuna Milk Producers,Yamuna Kumari,Devgarh,Darbhanga,Bihar,dairy,4,9.2,25000,1389.0,8869.0,2023-03-31,9602564736,1,medium
+E013,Bhavani Cattle Unit,Bhavani Devi,Sitapur,Begusarai,Bihar,dairy,11,10.3,60000,3333.0,8123.0,2025-03-20,9566825638,1,medium
+E014,Tulsi Dairy Enterprise,Tulsi Devi,Mahendrapur,Begusarai,Bihar,dairy,10,10.3,40000,2222.0,18427.0,2023-08-07,9771410971,1,medium
+E015,Nirmala Milk SHG,Nirmala Kumari,Devgarh,Samastipur,Bihar,dairy,13,10.3,40000,2222.0,19163.0,2023-06-15,9669462919,1,medium
